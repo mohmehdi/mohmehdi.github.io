@@ -10,20 +10,20 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Parsa Kamalipour"
+title                    : "Mohammad Mehdi Afkhami"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Parsa Kamalipour"
-description              : "Undergraduate Research Assistant | Head Teaching Assistant | Undergrad Computer Engineering student"
-url                      : https://benymaxparsa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Mohammad Mehdi Afkhami"
+description              : "Undergraduate Research Assistant | Teaching Assistant | Undergrad Computer Engineering student"
+url                      : https://mohmehdi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "benymaxparsa/benymaxparsa.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "mohmehdi/mohmehdi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/favicon/android-chrome-512x512.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -83,7 +83,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : ParsaKamalipour
+  username               : MohMehdi7
 facebook:
   username               :
   app_id                 :
@@ -106,82 +106,82 @@ analytics:
 
 # Site Author
 author:
-  name             : "Parsa Kamalipour"
+  name             : "Mohammad Mehdi Afkhami"
   avatar           : "profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research/Teaching Assistant @ Vali-e-Asr University. Theoretical Computer Science & Machine Learning Enthusiast."
-  location         : "Kerman, Iran"
-  email            : "parsakamalipour.edu@gmail.com"
+  bio              : "Research/Teaching Assistant @ Vali-e-Asr University. Computer Graphics & Machine Learning Enthusiast."
+  location         : "Yazd, Iran"
+  email            : "m.m.afkhami.edu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:parsakamalipour.edu@gmail.com"
+      # url: "mailto:m.m.afkhami.edu@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ParsaKamalipour"
+      url: "https://twitter.com/MohMehdi7"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/benymaxparsa"
+      url: "https://github.com/mohmehdi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/parsakamalipour/"
+      url: "https://www.linkedin.com/in/mohammad-mehdi-afkhami/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=eBNZsM0AAAAJ"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Parsa-Kamalipour"
+      url: "https://www.researchgate.net/profile/Mohammad-Mehdi-Afkhami"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0003-2546-9676"
+      url: "https://orcid.org/0000-0001-6223-0475"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCIu6MeO9aaBsLy00XoKO5tw"
+      url: "https://www.youtube.com/channel/UCzTXq-8dd3U95IJrl3f41FQ"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:parsakamalipour.edu@gmail.com"
+      url: "mailto:m.m.afkhami.edu@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ParsaKamalipour"
+      url: "https://twitter.com/MohMehdi7"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/benymaxparsa"
+      url: "https://github.com/mohmehdi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/parsakamalipour/"
+      url: "https://www.linkedin.com/in/mohammad-mehdi-afkhami/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=eBNZsM0AAAAJ"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Parsa-Kamalipour"
+      url: "https://www.researchgate.net/profile/Mohammad-Mehdi-Afkhami"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0003-2546-9676"
+      url: "https://orcid.org/0000-0001-6223-0475"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCIu6MeO9aaBsLy00XoKO5tw"
+      url: "https://www.youtube.com/channel/UCzTXq-8dd3U95IJrl3f41FQ"
 
 
 # Reading Files

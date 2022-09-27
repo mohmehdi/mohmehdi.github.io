@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Parsa Kamalipour"
+title: "Mohammad Mehdi Afkhami"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Parsa Kamalipour is currently an undergraduate Computer Engineering student at the Vali-e-Asr university of Rafsanjan. The Track of his major is Software Engineering.
+Mohammad Mehdi Afkhami is currently an undergraduate Computer Engineering student at the Vali-e-Asr university of Rafsanjan. The Track of his major is Software Engineering.
 
 His main area of research interest is theoretical computer science. To be precise, in fields such as Design & Analysis of Algorithms, Data Structures, Algorithmic Game Theory, Graph Algorithms, Data Mining, Machine Learning, Deep Learning, and most subcategories in the algorithms field.
 He is eager to continue researching these areas, pursue a Ph.D. in Computer Science, and presumably work in academia.
