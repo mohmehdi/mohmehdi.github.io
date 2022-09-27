@@ -56,7 +56,7 @@ gallery:
 
 ## 8 Puzzle solver using A* & IDA (Informed `Heuristic` Search Strategies)
 
-- [Github repo](https://github.com/benymaxparsa/8-Puzzle-Solver-AStar-IDA)
+- [Github repo](https://github.com/mohmehdi/8-Puzzle-Solver-AStar-IDA)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySN5Wnu88nE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

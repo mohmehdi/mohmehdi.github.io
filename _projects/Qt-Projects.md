@@ -13,12 +13,12 @@ gallery:
 {% include gallery caption="Qt logo" %}
 
 ## A simple Notepad
-* [Github repo](https://github.com/benymaxparsa/TheNotePad)
+* [Github repo](https://github.com/mohmehdi/TheNotePad)
 
 ## A GUI calculator
-* [Github repo](https://github.com/benymaxparsa/Calculator-Qt)
+* [Github repo](https://github.com/mohmehdi/Calculator-Qt)
 
-![image](https://raw.githubusercontent.com/benymaxparsa/Calculator-Qt/master/TheCalculator-V1.05.jpg)
+![image](https://raw.githubusercontent.com/mohmehdi/Calculator-Qt/master/TheCalculator-V1.05.jpg)
 
 
 

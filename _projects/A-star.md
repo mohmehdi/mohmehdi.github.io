@@ -12,7 +12,7 @@ gallery:
 {% include gallery caption="Astar logo" %}
 
 ## A-star
-* [Github repo](https://github.com/benymaxparsa/A-Star-Algorithm)
+* [Github repo](https://github.com/mohmehdi/A-Star-Algorithm)
 A* (pronounced as "A star") is a computer algorithm that is widely used in pathfinding and graph traversal. The algorithm efficiently plots a walkable path between multiple nodes, or points, on the graph.
 Pathfinding from points AA to BB on a map with many obstacles can be difficult. A robot, for instance, without getting in much other direction, will continue until it encounters an obstacle, as in the pathfinding example to the left below.
 However, the A* algorithm introduces a heuristic into a regular graph-searching algorithm, essentially planning ahead at each step, making a more optimal decision.

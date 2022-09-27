@@ -17,35 +17,35 @@ gallery:
 {% include gallery caption="CE logo" %}
 
 ## A Simple Python-based compiler
-* [Github repo](https://github.com/benymaxparsa/Compiler-Project)
+* [Github repo](https://github.com/mohmehdi/Compiler-Project)
 A Simple Python-based compiler, using RPLY package, for my own made-up language
 ![image](/images/compiler.png)
 
 ## Round Robin time scheduling algorithm
-* [Github repo](https://github.com/benymaxparsa/Round-robin-scheduling)
+* [Github repo](https://github.com/mohmehdi/Round-robin-scheduling)
 Overview
 Round robin scheduling is a pre-emptive algorithm commonly used in operating systems to schedule processes.
 In round robin scheduling, the CPU is assigned to each process in a queue turn by turn for a time period. Once the time is over, the process is moved to the end of the queue and the CPU is shifted to the next process in the queue. In this manner, processes are handled from a cyclic queue until the burst time of a process has passed.
 ![image](/images/os.png)
 
 ## The assembly language implementation of a banking system
-* [Github repo](https://github.com/benymaxparsa/Bank-the-8086-Edition)
+* [Github repo](https://github.com/mohmehdi/Bank-the-8086-Edition)
 ![image](/images/asm.png)
 
 
 ## VHDL codes regarding the Digital Systems Design course
-* [Github repo](https://github.com/benymaxparsa/VHDL)
+* [Github repo](https://github.com/mohmehdi/VHDL)
 
 ![image](/images/vhdl1.png)![image](/images/vhdl2.png)
 
 ## A BCD to 7 Segment Decoder (Digital Logic Circuit Design)
 Design a Decoder that translate a BCD number to a decimal number and shows it on a 7 Segment.
-* [Github repo](https://github.com/benymaxparsa/BCD-to-7Segment-Decoder)
-![image](https://raw.githubusercontent.com/benymaxparsa/BCD-to-7Segment-Decoder/main/Truth%20table.jpeg)
-![image](https://raw.githubusercontent.com/benymaxparsa/BCD-to-7Segment-Decoder/main/karno1.jpeg)
-![image](https://raw.githubusercontent.com/benymaxparsa/BCD-to-7Segment-Decoder/main/karno2.jpeg)
-![image](https://raw.githubusercontent.com/benymaxparsa/BCD-to-7Segment-Decoder/main/circuit%20design.jpeg)
-![image](https://raw.githubusercontent.com/benymaxparsa/BCD-to-7Segment-Decoder/main/full_Screenshot.jpg)
+* [Github repo](https://github.com/mohmehdi/BCD-to-7Segment-Decoder)
+![image](https://raw.githubusercontent.com/mohmehdi/BCD-to-7Segment-Decoder/main/Truth%20table.jpeg)
+![image](https://raw.githubusercontent.com/mohmehdi/BCD-to-7Segment-Decoder/main/karno1.jpeg)
+![image](https://raw.githubusercontent.com/mohmehdi/BCD-to-7Segment-Decoder/main/karno2.jpeg)
+![image](https://raw.githubusercontent.com/mohmehdi/BCD-to-7Segment-Decoder/main/circuit%20design.jpeg)
+![image](https://raw.githubusercontent.com/mohmehdi/BCD-to-7Segment-Decoder/main/full_Screenshot.jpg)
 
 ## A comparison among Python, Cython, and the C languages (Programming Language Design)
 * [Github repo](https://github.com/CenaAshoori/sort_cython)
