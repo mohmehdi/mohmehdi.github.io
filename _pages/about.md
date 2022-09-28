@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mohammad Mehdi Afkhami is currently an undergraduate Computer Engineering student at the Vali-e-Asr university of Rafsanjan. The Track of his major is Software Engineering.
-
-His main area of research interest is theoretical computer science. To be precise, in fields such as Design & Analysis of Algorithms, Data Structures, Algorithmic Game Theory, Graph Algorithms, Data Mining, Machine Learning, Deep Learning, and most subcategories in the algorithms field.
-He is eager to continue researching these areas, pursue a Ph.D. in Computer Science, and presumably work in academia.
-
-In addition to being an undergraduate research assistant, he has been a teacher assistant for more than ten courses to this day. He intends to continue his studies at the graduate level in the near future.
+Currently, Mehdi is an undergraduate student at the Vali-e-Asr university of Rafsanjan, studying Software Engineering. His interests include computer graphics and machine learning. Along with being an undergrad research assistant, he has also been a teacher assistant.
 
 ### [Biography](/biography/)
 

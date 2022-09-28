@@ -5,7 +5,7 @@ permalink: /industry/null_references
 ---
 - Team Name: [Null References](https://github.com/Null-References)
 - Date: Feb 2020 – Present
-- Mohammad Mehdi Afkhami and I Co-founded an Indie game development team.
+- Parsa Kamalipour and I Co-founded an Indie game development team.
 - We learned Design Patterns and SOLID together and developed A demo of a video game called "[Uncertainty](../projects/Uncertainty)."
 - Our game is an open-source game hosted on [GitHub](https://github.com/Null-References/Uncertainty).
 - Currently, our team isn't at its peak since all its members are busy at university. Still, we're looking forward to continuing the Uncertainty and eventually finishing it when we're free.
