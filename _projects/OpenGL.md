@@ -9,8 +9,10 @@ gallery:
 ---
 ***Designing and implementation of:***  
 A game using OpenGL for my graphics course  
-{% include gallery caption="OpenGL" %}    
- 
+{% include gallery caption="OpenGL" %}      
+
+
+***Gameplay video*** 
 <video src="/images/Projects/gameplay.mp4" controls muted preload poster="/images/Projects/opengl.png" >
   </video>
   
