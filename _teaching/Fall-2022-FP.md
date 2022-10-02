@@ -1,5 +1,5 @@
 ---
-title: "Co-Head Teaching Assistant of Fundamentals of Programming course"
+title: "Teaching Assistant of Fundamentals of Programming course"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Fall-2022-FP
@@ -14,8 +14,6 @@ location: "Rafsanjān, Kerman, Iran"
 - Team size: We don't know yet
 - My key role consisted of:
   - It is to be decided in the near future.
-
-Skills related to this job: Teaching · Team Management · Software Development · C++ · LaTeX · Git · C (Programming Language) · Problem Solving · Team Leadership · Teamwork
 
 <!-- ## More Info:
 [Github Page](https://github.com/VRU-CE/Design_and_Analysis_of_Algorithms-4002) -->

@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant(Grader) of Operating Systems course"
+title: "Teaching Assistant of Operating Systems course"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Spring-2022-OS
@@ -13,6 +13,4 @@ location: "Rafsanjān, Kerman, Iran"
 - Semester: Spring 2022
 - Team size: 4 TAs
 - My key role consisted of:
-  - Corrected students' homework
-
-Skills that I learned and used: Teaching · LaTeX · Teamwork
+  - Holding up recitation classes

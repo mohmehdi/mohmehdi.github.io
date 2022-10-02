@@ -1,5 +1,5 @@
 ---
-title: "Head Teaching Assistant of Artificial intelligence course"
+title: "Teaching Assistant of Artificial intelligence course"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Fall-2022-AI
@@ -15,4 +15,3 @@ location: "Rafsanjān, Kerman, Iran"
 - My key role consisted of:
   - It is to be decided in the near future.
 
-Skills related to this job: Algorithm Design · Teaching · python · Data Mining · Deep Learning · Scikit-Learn · Pandas (Software) · Matplotlib · Graph Theory · Team Management · Algorithm Analysis · Data Structures · Object-Oriented Programming (OOP) · MATLAB · LaTeX · Git · Problem Solving · Team Leadership · Teamwork

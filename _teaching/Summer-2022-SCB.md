@@ -31,15 +31,13 @@ gallery:
 
 Summer Coding Bootcamp, the most extensive online event held by the Vali-e-Asr University Scientific Association of Computer Engineering, took place in the summer of 2022.
 This coding Bootcamp is something I'm proud to be a part of, both as an instructor and as a part of the crew that made it happen.
-Python and its prevalent packages, Git, and GitHub are the topics covered in this Bootcamp.
-- [my Youtube channel](https://www.youtube.com/channel/UCIu6MeO9aaBsLy00XoKO5tw)
+Unity and game development
+- [my Youtube channel](https://www.youtube.com/channel/UCzTXq-8dd3U95IJrl3f41FQ)
 - [our Aparat channel](https://www.aparat.com/computer_vru)
-
-Skills related to this job: Teaching · python · Data Mining · Scikit-Learn · NetworkX · Pandas (Software) · Matplotlib · NumPy · Data Structures · Object-Oriented Programming (OOP) · Git · Teamwork
 
 
 {% include gallery caption="Posters of this event" %}
 
 
 <!-- ## More Info:
-[Github Page](https://github.com/VRU-CE/Design_and_Analysis_of_Algorithms-4002) -->
+[Github Page](https://github.com/VRU-The-Summer-Coding-Bootcamp-2022/Unity_Tutorial) -->
