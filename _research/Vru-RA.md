@@ -10,7 +10,7 @@ venue: "Vali-e-Asr University of Rafsanjan, Department of Computer Engineering"
 - I am researching Community Detection algorithms
 - Under the supervision of Dr. Fahimeh Dabaghi-Zarandi
 - Some related fields to my research: Algorithms, Graph Theory, Randomized Algorithms,Evolutionary Algorithms, Deep Learning, Data Mining, and Community Detection 
-- Date: Aug 2021 -- Present
+- Date: Apr 2022 -- Present
 - My key role consisted of:  
     1- Reading and reviewing related papers (Investigation)  
     2- Implementing ideas in Python (Data curation, Software, Programming)  
