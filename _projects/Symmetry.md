@@ -9,10 +9,10 @@ gallery:
 ---
 ***Designing and implementation of:***  
 A game to test our short-term memory for visual information  
-At first, I designed this project as a teaching tool for elementary students to teach them about symmetry then I decided to add some more difficult levels 
+In the beginning, I designed this project to teach elementary students about symmetry, but then I added some more challenging levels  
 {% include gallery caption="Symmetry" %}
 
-The game also consist of a creative level to draw the main sample and then it is playable in the creative mode  
+There is also a creative level to draw the main sample, and then the game is playable in creative mode   
 
 ***This is the last level***  
 ![img](/images/Projects/symmetry_pic.png)

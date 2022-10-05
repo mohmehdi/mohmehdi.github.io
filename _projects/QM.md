@@ -8,7 +8,7 @@ gallery:
     title: "QM"
 ---
 ***Designing and implementation of:***  
-Quine McCluskey algorithem minimization method for minimizing boolean functions 
+Quine McCluskey algorithem minimization method for minimizing boolean functions supporting up to 32 bits 
 {% include gallery caption="QM" %}
 
 I used WPF for the UI

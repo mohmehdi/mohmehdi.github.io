@@ -8,13 +8,13 @@ gallery:
     title: "Blender Addons"
 ---
 ***Designing and implementation of:***  
-Some blender addons(plugin) to learn about blender api  
+Addons (plugins) for learning blender API  
 
 ***Better timeline for animation:***    
-I made a tiny adjustment to the timeline to make checking the looped animations easier  
+In order to simplify checking looped animations, I altered the timeline so that moving to the next frame follows the timeline start and end frames, so for instance, being at the last frame moves to the start.  
 
-***Screenshot to Scene***  
-As a TA I used blender as a whiteboard program since it has lots of tools in my classes so I made this addon to make adding images from clipboard easy  
+***Screenshot to Scene***   
+During covid In my classes, I used Blender as a whiteboard program because it has a lot of features, so I made this add-on to make it easier to add images from the clipboard  
 {% include gallery caption="Blender Addons" %}  
 
 source code avalible here: 

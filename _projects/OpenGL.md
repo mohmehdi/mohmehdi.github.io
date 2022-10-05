@@ -8,8 +8,14 @@ gallery:
     title: "OpenGL"
 ---
 ***Designing and implementation of:***  
-A game using OpenGL for my graphics course  
+This is a game that I made for my graphics course using OpenGL 
 {% include gallery caption="OpenGL" %}      
+
+During this project, I learned:  
+- writing C++ code for OpenGL.
+- Writing shader codes in GLSL
+- Formats and structures of 3D objects.
+- 3D mesh import
 
 
 ***Gameplay video*** 

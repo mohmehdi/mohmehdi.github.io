@@ -8,7 +8,8 @@ gallery:
     title: "Automata"
 ---
 ***Designing and implementation of:***  
-An automata simulation tool    
+An automata simulation tool supporting DFA,DPDA,Turing machines  
+    
 {% include gallery caption="Automata" %}
 
 ### What is an automata    
@@ -19,7 +20,7 @@ It is essentially an abstract machine that takes an input consisting of symbols 
 ### Why automatas  
 [wiki] Automata play a major role in the theory of computation, compiler construction, artificial intelligence, parsing and formal verification.    
 
-Due to their wide range of applications, learning automatas is important, so I decided to make them into a puzzle game to make learning them more enjoyable. Despite being a prototype, the game's main functionality is there and can be used as a teaching tool. 
+Since automata have a wide range of applications, I decided to make them into a puzzle game so that learning them would be more fun. Despite being a prototype, the game's main functionality is present and can be used as a teaching tool. 
 
 an example of a machine accepting inputs with even number of 1's  
 ![gif](/images/Projects/automata.gif)  
