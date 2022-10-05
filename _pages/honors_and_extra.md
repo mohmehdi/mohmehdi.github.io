@@ -77,42 +77,10 @@ author_profile: true
 ---
 
 ## Hubbies & Non-Academic Interests
-- Music:
-    * Listening to music, Some of my favorites genres:
-        * Nu Metal, Heavy Metal, Metal
-        * HipHop, R&B, Rap
-        * Country, Soul, Blues
-        * Rock, Heavy Rock
-    * Musical Instruments that I like:
-        * Electric Guitar
-        * Bass Guitar
-        * Piano
-    * Making playlists and sending my hand-pick music to my friends
-    * Going to concerts
-    * reading and analyzing lyrics of musics
+Making small prototypes, mostly testing new technologies  
+Playing video games, eg. Minecraft, Oxygen Not Included, Chess, HeartStone, Games on itch, etc.  
+Whatching movie & TV series  
+Not a sports fan but i like playing ping pong  
+hanging out with my pets(not sure if farm animals count as pets but they have names so I guess they do)  
 
-- Movie & TV Series & Comic Books:
-    * I am fan of DC universe
-    * I also enjoy Anti-Super-Hero stories. eg. The Boys
-    * Sci-Fi genre
-    * Stories that have a dark tone and are more realistic rather than fake optimistic
-    * Stories that are Detective based & mysterious and probably have a complex scenario
-
-- Comedy:
-  - I enjoy watching stand-up comedy
-  - I like to make memes
-  - I like watching memes
-  - In general, I enjoy making my friends laugh
-
-- Adventure:
-  - Trying new cafe and restaurants
-  - Traveling and visiting new places
-  - Photography
-
-- Sports:
-  - Weight lifting
-
-- Video games:
-  - Making games
-  - Playing video games, eg. Max Payne, Stronghold, sony exclusives, AC 2 trilogy & 3, GTA, etc.
 
