@@ -172,7 +172,7 @@ footer:
       url: "https://www.linkedin.com/in/mohammad-mehdi-afkhami/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=eBNZsM0AAAAJ"
+      url: "https://scholar.google.com/citations?user="
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Mohammad-Mehdi-Afkhami"
