@@ -7,7 +7,7 @@ gallery:
     alt: "Puzzle 8"
     title: "Puzzle 8"
 ---
-***Designing and implementation of:***  
+***Designing and implementation or Use of:***  
 - BFS, DFS, IDS, UCS (Uninformed Search Strategies)
 - 8 Puzzle solver using A* & IDA (Informed Heuristic Search Strategies)
 - genetic algorithms, simulated annealing (Local Search)
