@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, Mehdi is an undergraduate student at the Vali-e-Asr university of Rafsanjan, studying Software Engineering. His interests include computer graphics and machine learning. Along with being an undergrad research assistant, he has also been a teacher assistant.
+I'm an undergraduate student at the Vali-e-Asr university of Rafsanjan, studying Software Engineering. Aside from my work as an undergraduate research assistant on community detection, I have also served as a teaching assistant several times. As a computer graphics enthusiast, I am primarily interested in topics such as procedural content generation, simulation, etc. Additionally, I am interested in creative solutions for difficult problems, so in short, my main research interests are computer graphics, agent-based modeling, and recently crowdsourcing. In addition, I am a game developer and cofounder of Null-references, an independent team
 
 ### [Biography](/biography/)
 
