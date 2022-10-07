@@ -47,7 +47,8 @@ author_profile: true
 - #### Tools:
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
   
@@ -62,11 +63,6 @@ author_profile: true
   <img alt="Data Structures" src="https://img.shields.io/badge/Data Structures-%23121011.svg?style=for-the-badge&logo=DataStructures&logoColor=white"/>
   
 
-
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohmehdi&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmehdi&theme=dracula&hide_border=true" />
-
-[![Mohmehdi github activity graph](https://activity-graph.herokuapp.com/graph?username=mohmehdi&theme=dracula	)](https://github.com/mohmehdi/github-readme-activity-graph)
 
 
 ## Languages

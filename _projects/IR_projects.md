@@ -2,8 +2,8 @@
 title: "An Introduction to Information Retrieval & Web Search Course Project"
 collection: projects
 gallery:
-  - url: /images/Projects/crawler.png  
-    image_path: /images/Projects/crawler.png  
+  - url: /images/Projects/crawler.PNG  
+    image_path: /images/Projects/crawler.PNG  
     alt: "crawler"
     title: "crawler"
 ---
