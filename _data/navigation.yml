@@ -49,5 +49,8 @@ main:
   - title: "Gallery & Images"
     url: /gallery/
 
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "Industry Experiences"
     url: /industry/
