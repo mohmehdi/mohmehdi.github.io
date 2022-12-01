@@ -7,7 +7,7 @@ author_profile: true
 ## Honors and Awards
 
 ## Test Scores
-**TOEFL**: Will be taken at Nov 19th 2022
+**TOEFL**: -
 
 ---
 
