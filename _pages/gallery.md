@@ -24,11 +24,11 @@ gallery:
   - url: images/Gallery/p5.jpg
     image_path: images/Gallery/p5.jpg
     alt: ""
-    title: ""
+    title: "People in this picture:GolBaghali"
   - url: images/Gallery/p6.jpg
     image_path: images/Gallery/p6.jpg
     alt: "People in this picture:Baghali"
-    title: "People in this picture:Baghali"
+    title: ""
   - url: images/Gallery/p7.jpg
     image_path: images/Gallery/p7.jpg
     alt: ""
@@ -65,14 +65,7 @@ gallery:
     image_path: images/Gallery/p15.jpg
     alt: ""
     title: ""
-  - url: images/Gallery/p16.jpg
-    image_path: images/Gallery/p16.jpg
-    alt: ""
-    title: ""
-  - url: images/Gallery/p17.jpg
-    image_path: images/Gallery/p17.jpg
-    alt: ""
-    title: ""
+
 ---
 {% include gallery caption="Gallery & Images" %}
 

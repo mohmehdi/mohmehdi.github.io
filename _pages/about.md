@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student at the Vali-e-Asr university of Rafsanjan, studying Software Engineering. Aside from my work as an undergraduate research assistant on community detection, I have also served as a teaching assistant several times. As a computer graphics enthusiast, I am primarily interested in topics such as procedural content generation, simulation, etc. Additionally, I am interested in creative solutions for difficult problems, so in short, my main research interests are computer graphics, agent-based modeling, and recently crowdsourcing. In addition, I am a game developer and cofounder of Null-references, an independent team
+I graduated with a Bachelor's degree in Software Engineering from Vali-e-Asr University of Rafsanjan. Besides my role as a research assistant, I've taken up teaching assistant responsibilities on several occasions. My interests span various domains within computer science, with a strong focus on generative AI. Beyond academics, I also create games as an independent developer and co-founded Null-references, a team committed to bringing the game "Uncertainty" to life. Simultaneously, I'm actively contributing as a research assistant.
 
-### [Biography](/biography/)
+In the future, I'm enthusiastic about pursuing further education to continue advancing my career.
+
 
 ### [Education](/education/)
 

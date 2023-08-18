@@ -11,7 +11,7 @@ location: "Rafsanjān, Kerman, Iran"
 - Course: Artificial intelligence
 - Course instructor: Dr. Amir Hossein Hadjahmadi
 - Semester: Fall 2022
-- Team size: 4
+- Team size: 3
 - My key role consisted of:
   - Correcting students' homeworks
   - Holding up recitation classes

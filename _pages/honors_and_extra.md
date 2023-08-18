@@ -4,10 +4,11 @@ title: "Honors and Awards, Test Scores, Skills, etc."
 excerpt: "Honors and Awards, Test Scores, Skills, etc."
 author_profile: true
 ---
-## Honors and Awards
-
+## Certificate
+ Generative Deep Learning with TensorFlow
+[Show credential](https://www.coursera.org/account/accomplishments/certificate/JDQKWCDQADSV)
 ## Test Scores
-**TOEFL**: -
+**TOEFL**: 88
 
 ---
 
@@ -33,6 +34,7 @@ author_profile: true
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-%23316192.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img alt="TensofFlow" src="https://img.shields.io/badge/tensorflow-%23316192.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 - #### Databases:
@@ -73,10 +75,7 @@ author_profile: true
 ---
 
 ## Hubbies & Non-Academic Interests
-Making small prototypes, mostly testing new technologies  
-Playing video games, eg. Minecraft, Oxygen Not Included, Chess, HeartStone, Games on itch, etc.  
-Whatching movie & TV series  
-Not a sports fan but i like playing ping pong  
-hanging out with my pets(not sure if farm animals count as pets but they have names so I guess they do)  
-
-
+Spending time with my chickens.  
+Playing video games, such as Minecraft, Skyrim, and Hearthstone.  
+Watching movies.  
+While I'm not a sports fan, I do enjoy playing ping pong.  

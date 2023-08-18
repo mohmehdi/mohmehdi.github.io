@@ -27,6 +27,6 @@ author_profile: true
 | Network Engineering                                | 18.75/20           |
 | Database Design                                    | 16/20              |
 | Fundamentals of Data Mining                        | 19/20              |
-| Bachelor's thesis                                  | -/20               |
+| Bachelor's thesis                                  | 20/20               |
 
 

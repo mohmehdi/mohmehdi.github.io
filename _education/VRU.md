@@ -15,11 +15,11 @@ gallery:
 * Major: Bachelor of Science - B.S. Computer Engineering
 * Major Track: Software Engineering
 * Location: Rafsanjan, Iran
-* Date: 2018 – Present
-* Last two years GPA without calculating summer semester: 16.4/20
-* CGPA: 16.1/20 
+* Date: 2018 – 2023
+* Last two years GPA without calculating summer semester(60 credits): 16.8/20
+* CGPA: 16.26/20 
 * Bachelor’s Thesis: Community detection in complex network using evolutionary algorithems
-* Bachelor’s Thesis grade: -/20
+* Bachelor’s Thesis grade: 20/20
 {% include gallery caption="Bachelor Graduation Day pictures" %}
 
 

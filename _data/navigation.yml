@@ -13,8 +13,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Biography"
-    url: /biography/
+  # - title: "Biography"
+  #   url: /biography/
 
   # - title: "Talks"
   #   url: /talks/
