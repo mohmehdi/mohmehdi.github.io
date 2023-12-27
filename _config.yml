@@ -20,7 +20,7 @@ title                    : "Mohammad Mehdi Afkhami"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mohammad Mehdi Afkhami"
-description              : "Undergraduate Research Assistant | Teaching Assistant | Undergrad Computer Engineering student"
+description              : "Research Assistant | Teaching Assistant | Undergrad Computer Engineering student"
 url                      : https://mohmehdi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohmehdi/mohmehdi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,8 +82,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : MohMehdi7
+# twitter:
+#   username               : MohMehdi7
 facebook:
   username               :
   app_id                 :

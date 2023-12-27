@@ -17,4 +17,4 @@ venue: "Vali-e-Asr University of Rafsanjan, Department of Computer Engineering"
     2- Implementing ideas in Python (Data curation, Software, Programming)  
     3- Testing and improving the written code (Validation)  
     4- Gathering information and writing the initial text for the paper (Writing primary draft preparation)  
-    
+- One paper submitted.
