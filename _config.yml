@@ -118,7 +118,7 @@ author:
     - label: "itch-io"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Website"
+    - label: "itch-io"
       icon: "fab fa-itch-io"
       url: "https://mohmehdi.itch.io"
     - label: "Twitter"
